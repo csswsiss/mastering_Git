@@ -8,3 +8,4 @@ At 450PM i have new text here
 test is what is have to do
 THis is for merge conflic from new Test branch branch
 
+New changes for develop
