@@ -1,3 +1,2 @@
 THis is from main branch Shanvi File
-soft reset
-mIXED RESET
+COmmit One
